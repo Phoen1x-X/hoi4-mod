@@ -1,0 +1,82 @@
+#安徽_芜湖
+state = {
+	id = 1351
+	name = "STATE_1351"
+
+	#资源模块
+	resources={
+		oil = 6								#石油
+		steel= 67							#钢
+	}
+
+	history = {
+		#地区归属模块
+		owner = JLB							#控制该地区的国家
+		add_core_of = JLB					#拥有该地区核心的国家
+		#add_claim_by = CHI					#拥有该地区宣称的国家
+
+		#add_core_of = AAA					#备用核心1，方便MOD修改
+		#add_core_of = BBB					#备用核心2，方便MOD修改
+		#add_core_of = CCC					#备用核心3，方便MOD修改
+
+		#add_claim_by = AAA					#备用宣称1，方便MOD修改
+		#add_claim_by = BBB					#备用宣称2，方便MOD修改
+		#add_claim_by = CCC					#备用宣称3，方便MOD修改
+
+		#建筑模块
+		buildings = {
+			#地区建筑：基建与生产
+			infrastructure = 2				#基础设施（最高5级）
+			internet_station = 1			#通信基础设施
+
+			#地区建筑：空军与防空
+			#air_base = 1					#空军基地
+			#anti_air_building = 1			#短程防空阵地
+			#radar_station = 1				#雷达站
+			#rocket_site = 1				#导弹发射场
+
+			#地区建筑：能源与储存
+			synthetic_refinery = 1			#可再生能源基础设施
+			#fuel_silo = 1					#战略燃料储备
+			#fossil_powerplant = 1			#化石燃料发电厂
+			#nuclear_reactor = 1			#核反应堆
+
+			#工业建筑
+			#arms_factory = 1				#军事工业
+			industrial_complex = 1			#民用工业
+			#dockyard = 1					#海军船坞
+			#offices = 1					#办公园区
+			#agriculture_district = 1		#商业化农业区
+
+			#地方建筑
+			#1111 = {
+				#bunker = 1					#陆地要塞
+				#coastal_bunker = 1			#沿海要塞
+				#naval_base = 1				#海军基地
+				#supply_node = 1			#补给中心
+
+				#nuclear_facility = 1		#民用研发设施
+				#naval_facility = 1			#海军工程设施
+				#land_facility = 1			#陆战设施
+				#air_facility = 1			#空气动力学和航空电子设施
+			#}
+		}
+
+		#可再生能源热点
+		add_dynamic_modifier = { modifier = renewable_capacity_factor_dyn_mod }
+		set_variable = { state_renewable_capacity_factor_modifier_var = 0.5 }
+
+		#胜利点模块
+		victory_points = { 1171 5 }			#胜利点:芜湖
+	}
+
+	#地区构成模块
+	provinces = {
+		1171 7104
+	}
+
+	manpower = 2184783						#人口
+	buildings_max_level_factor = 1.000
+	state_category = state_05				#地区等级：人口非常适中（建筑位：14）
+	local_supplies = 0.000					#本地补给
+}
