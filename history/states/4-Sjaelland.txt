@@ -1,0 +1,26 @@
+state = {
+	id = 4
+	name = "STATE_4"
+	manpower = 2429448
+	state_category = state_03
+
+
+	history = {
+		%owner = 
+		victory_points = { 6287 10 } #København
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 6
+			6287 = {
+				naval_base = 8
+				land_facility = 1
+			}
+		}
+	}
+
+	provinces = {
+		3260 3305 6287 6393
+	}
+}

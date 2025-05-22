@@ -1,0 +1,24 @@
+state = {
+	id = 3
+	name = "STATE_3"
+	manpower = 35759
+
+	state_category = state_00
+
+	history = {
+		%owner = 
+		victory_points = { 6361 1 } #Rønne
+
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			6361 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		6361
+	}
+}

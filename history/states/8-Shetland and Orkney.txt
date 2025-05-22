@@ -1,0 +1,29 @@
+state = {
+	id = 8
+	name = "STATE_8"
+	manpower = 19293
+	state_category = state_00
+
+	resources = {
+		oil = 5
+	}
+
+	history = {
+		%owner = ENG
+		victory_points = { 6196 1 } #Lerwick
+
+		buildings = {
+			infrastructure = 3
+			radar_station = 1
+			6196 = {
+				naval_base = 1
+			}
+		}
+		%add_core_of = SCO
+		%add_core_of = ENG
+		}
+
+	provinces = {
+	   6196
+	}
+}

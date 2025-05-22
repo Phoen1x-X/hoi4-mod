@@ -1,0 +1,20 @@
+state = {
+	id = 2
+	name = "STATE_2" # Faroe Islands
+	manpower = 46196
+
+	state_category = state_00
+
+	history = {
+		%owner = 
+		victory_points = { 13003 1 } #Torshavn
+
+		buildings = {
+			infrastructure = 3
+			13003 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = { 13003 }
+}

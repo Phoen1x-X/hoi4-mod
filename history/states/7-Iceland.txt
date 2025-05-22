@@ -1,0 +1,28 @@
+state = {
+	id = 7
+	name = "STATE_7"
+	resources = {
+		aluminium = 26
+	}
+
+	history = {
+		%owner = 
+		victory_points = {
+			13255 1
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 6
+			13255 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		4861 12674 12689 13254 13255 16048 16049 16050
+	}
+	manpower = 281205
+	buildings_max_level_factor = 1.000
+	state_category = state_00
+}
