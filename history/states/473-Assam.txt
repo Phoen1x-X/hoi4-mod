@@ -1,0 +1,60 @@
+
+state={
+	id=473
+	name="STATE_473"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = RAJ
+		victory_points = {
+			13252 5 
+		}
+		victory_points = {
+			12322 1 
+		}
+		victory_points = {
+			1525 1 
+		}
+		victory_points = {
+			12395 5 
+		}
+		victory_points = {
+			14521 1 
+		}
+		buildings = {
+			infrastructure = 0
+			#internet_station = 1
+			arms_factory = 2
+			industrial_complex = 2
+			offices = 1
+			air_base = 8
+
+		}
+		add_core_of = RAJ
+		add_claim_by = KAM
+		2017.1.1 = {
+			add_manpower = 2000000
+			add_manpower = 2000000
+			add_manpower = 2000000
+			add_manpower = 1783228
+			buildings = {
+				#internet_station = 1
+				industrial_complex = 2
+				arms_factory = 2
+
+			}
+
+		}
+
+	}
+
+	provinces = {
+		329 1525 1553 7455 9819 10349 11870 12242 12322 12366 12395 13252 13294 14521 
+	}
+	manpower=26655528
+	buildings_max_level_factor=1.000
+	state_category=state_13
+	local_supplies=0.000
+}
