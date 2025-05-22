@@ -1,0 +1,20 @@
+characters = {
+    ZQH_zeng_qin_he = {
+        name = ZQH_zeng_qin_he
+        portraits = {
+			civilian = {
+				large = GFX_portrait_ZQH_zeng_qin_he
+				}
+		}
+
+		country_leader = {
+			ideology = neoliberalism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

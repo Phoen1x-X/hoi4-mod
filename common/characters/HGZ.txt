@@ -1,0 +1,20 @@
+characters = {
+    HGZ_hao_guo_zhi = {
+        name = HGZ_hao_guo_zhi
+        portraits = {
+			civilian = {
+				large = GFX_portrait_HGZ_hao_guo_zhi
+				}
+		}
+
+		country_leader = {
+			ideology = national_communism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

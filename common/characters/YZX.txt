@@ -1,0 +1,20 @@
+characters = {
+    YZX_yan_ze_xi = {
+        name = YZX_yan_ze_xi
+        portraits = {
+			civilian = {
+				large = GFX_portrait_YZX_yan_ze_xi
+				}
+		}
+
+		country_leader = {
+			ideology = maoism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

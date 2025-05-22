@@ -1,0 +1,20 @@
+characters = {
+    FJY_feng_jun_yang = {
+        name = FJY_feng_jun_yang
+        portraits = {
+			civilian = {
+				large = GFX_portrait_FJY_feng_jun_yang
+				}
+		}
+
+		country_leader = {
+			ideology = social_democracy
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

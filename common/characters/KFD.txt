@@ -1,0 +1,20 @@
+characters = {
+    KFD_ka_fei_dou = {
+        name = KFD_ka_fei_dou
+        portraits = {
+			civilian = {
+				large = GFX_portrait_KFD_ka_fei_dou
+				}
+		}
+
+		country_leader = {
+			ideology = legion_fascism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

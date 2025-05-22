@@ -1,0 +1,20 @@
+characters = {
+    NPL_leclerc = {
+        name = NPL_leclerc
+        portraits = {
+			civilian = {
+				large = GFX_portrait_NPL_leclerc
+				}
+		}
+
+		country_leader = {
+			ideology = maoism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

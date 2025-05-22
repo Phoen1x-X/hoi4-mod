@@ -1,0 +1,20 @@
+characters = {
+    NZL_government = {
+        name = NZL_government
+        portraits = {
+			civilian = {
+				large = GFX_portrait_NZL_government
+				}
+		}
+
+		country_leader = {
+			ideology = pan_oceanian_nationalism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

@@ -1,0 +1,20 @@
+characters = {
+    DYX_dai_yu_xin = {
+        name = DYX_dai_yu_xin
+        portraits = {
+			civilian = {
+				large = GFX_portrait_DYX_dai_yu_xin
+				}
+		}
+
+		country_leader = {
+			ideology = maoism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

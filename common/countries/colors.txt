@@ -1,0 +1,52 @@
+ZQH = {
+	color = rgb { 250 255 240 }
+	color_ui = rgb { 250 255 240 }
+}
+FJY = {
+	color = rgb { 0 0 128 }
+	color_ui = rgb { 0 0 128 }
+}
+HGZ = {
+	color = rgb { 153 51 0 }
+	color_ui = rgb { 153 51 0 }
+}
+YZX = {
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 255 0 0 }
+}
+JLB = {
+	color = rgb { 0 102 255 }
+	color_ui = rgb { 0 102 255 }
+}
+SCH = {
+	color = rgb { 0 102 255 }
+	color_ui = rgb { 0 102 255 }
+}
+WYS = {
+	color = rgb { 0 128 128 }
+	color_ui = rgb { 0 128 128 }
+}
+DYX = {
+	color = rgb { 200 8 21 }
+	color_ui = rgb { 200 8 21 }
+}
+NPL = {
+	color = rgb { 80 150 0 }
+	color_ui = rgb { 80 150 0 }
+}
+YCY = {
+	color = rgb { 169 106 62 }
+	color_ui = rgb { 169 106 62 }
+}
+KFD = {
+	color = rgb { 169 106 62 }
+	color_ui = rgb { 169 106 62 }
+}
+AST = {
+	color = rgb { 0 51 102 }
+	color_ui = rgb { 0 51 102 }
+}
+NZL = {
+	color = rgb { 0 51 102 }
+	color_ui = rgb { 0 51 102 }
+}

@@ -1,0 +1,20 @@
+characters = {
+    SCH_sun_chen_han = {
+        name = SCH_sun_chen_han
+        portraits = {
+			civilian = {
+				large = GFX_portrait_SCH_sun_chen_han
+				}
+		}
+
+		country_leader = {
+			ideology = pure_maomaoism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}

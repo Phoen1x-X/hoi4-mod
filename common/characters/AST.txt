@@ -1,0 +1,20 @@
+characters = {
+    JSC_Jayne_zihyan_chen = {
+        name = JSC_Jayne_zihyan_chen
+        portraits = {
+			civilian = {
+				large = GFX_portrait_JSC_Jayne_zihyan_chen
+				}
+		}
+
+		country_leader = {
+			ideology = pan_oceanian_nationalism
+			traits = { }
+			expire = "2000.1.1.1"
+			id = -1
+		}
+
+	}
+	
+
+}
